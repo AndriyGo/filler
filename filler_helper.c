@@ -1,23 +1,25 @@
 #import "filler.h"
 #import "libft/libft.h"
 
-t_filler	*init_filler()
+int		init_filler(t_filler **ret)
 {
-	t_filler	*ret;
-
-	ret = ft_memalloc(sizeof(t_filler));
-	ret->rect = ft_memalloc(sizeof(t_rect));
-	ret->shape = NULL;
-	ret->map = NULL;
-	ret->shape = ft_memalloc(sizeof(t_shape));
-	ret->shape->map = NULL;
-	return (ret);
+	if ((*ret = ft_memalloc(sizeof(t_filler))) == NULL)
+		return (-1);
+	if (((*ret)->rect = ft_memalloc(sizeof(t_rect))) == NULL)
+		return (-1);
+	if (((*ret)->shape = ft_memalloc(sizeof(t_shape))) == NULL)
+		return (-1);
+	(*ret)->map = NULL;
+	(*ret)->shape->map = NULL;
+	return (0);
 }
 
-void		init_maps(t_filler *filler, int h, int w)
+int		init_maps(t_filler *filler, int h, int w)
 {
 	int	y;
 
+	if ((h == 0) || (w == 0))
+		return (-1);
 	if (filler->map != NULL)
 	{
 		y = 0;
@@ -25,11 +27,13 @@ void		init_maps(t_filler *filler, int h, int w)
 			free(filler->map[y++]);
 		free(filler->map);
 	}
-	filler->map = ft_memalloc(h * sizeof(char *));
+	if ((filler->map = ft_memalloc(h * sizeof(char *))) == NULL)
+		return (-1);
 	y = 0;
 	while (y < h)
 	{
-		filler->map[y++] = ft_memalloc(w * sizeof(char));
+		if ((filler->map[y++] = ft_memalloc(w * sizeof(char))) == NULL)
+			return (-1);
 	}
 	filler->w = w;
 	filler->h = h;
@@ -37,9 +41,10 @@ void		init_maps(t_filler *filler, int h, int w)
 	filler->rect->x1 = 0;
 	filler->rect->y0 = h;
 	filler->rect->y1 = 0;
+	return (0);
 }
 
-void		fill_map_line(t_filler *filler, int hi, char *line)
+int			fill_map_line(t_filler *filler, int hi, char *line)
 {
 	int		w;
 	int		i;
@@ -52,10 +57,15 @@ void		fill_map_line(t_filler *filler, int hi, char *line)
 			filler->map[hi][i] = 0;
 		else if (ft_toupper(line[i + 4]) == filler->me)
 			filler->map[hi][i] = 1;
-		else
+		else if (ft_toupper(line[i + 4]) == filler->enemy)
 			filler->map[hi][i] = -1;
+		else
+			return (-1);
 		i++;
 	}
+	if (i != w)
+		return (-1);
+	return (0);
 }
 
 void		calc_map(t_filler *filler)

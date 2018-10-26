@@ -1,21 +1,23 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_striter.c                                       :+:      :+:    :+:   */
+/*   ft_lstdup.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: agordiyc <agordiyc@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2017/12/10 15:03:20 by agordiyc          #+#    #+#             */
-/*   Updated: 2017/12/10 15:06:30 by agordiyc         ###   ########.fr       */
+/*   Created: 2017/12/10 15:48:46 by agordiyc          #+#    #+#             */
+/*   Updated: 2017/12/10 15:51:25 by agordiyc         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <string.h>
+#include "libft.h"
 
-void	ft_striter(char *s, void (*f)(char *))
+t_list	*ft_lstdup(t_list *lst)
 {
-	if ((s == NULL) || (f == NULL))
-		return ;
-	while (*s)
-		f(s++);
+	t_list	*ret;
+
+	if (lst == NULL)
+		return (NULL);
+	ret = ft_lstnew(lst->content, lst->content_size);
+	return (ret);
 }

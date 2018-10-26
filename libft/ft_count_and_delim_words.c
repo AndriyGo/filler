@@ -1,9 +1,21 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   ft_count_and_delim_words.c                         :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: agordiyc <agordiyc@student.42.fr>          +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2017/12/10 15:03:20 by agordiyc          #+#    #+#             */
+/*   Updated: 2017/12/10 17:35:16 by agordiyc         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include "libft.h"
 
-int	ft_count_and_delim_words(char *s, char delim)
+size_t	ft_count_and_delim_words(char *s, char delim)
 {
 	char	*tmp;
-	int		count;
+	size_t	count;
 
 	count = 0;
 	while ((tmp = ft_strchr(s, delim)) != NULL)

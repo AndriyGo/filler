@@ -6,113 +6,109 @@
 /*   By: agordiyc <agordiyc@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/02/02 18:17:25 by agordiyc          #+#    #+#             */
-/*   Updated: 2018/02/02 20:32:05 by agordiyc         ###   ########.fr       */
+/*   Updated: 2018/02/12 20:14:02 by agordiyc         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+#include <stdlib.h>
+#include <unistd.h>
 
-static void	ft_search_fd(t_list **begin_list, int fd, t_list **find)
+void	delete_list_el(t_list **head, size_t fd)
 {
-	if (!(*begin_list))
-	{
-		*begin_list = ft_lstnew(NULL, 0);
-		(*begin_list)->content_size = fd;
-		*find = *begin_list;
+	t_list **to_del;
+	t_list *prev;
+
+	if (head == NULL)
 		return ;
-	}
-	*find = *begin_list;
-	while (*find)
+	to_del = head;
+	prev = NULL;
+	while (*to_del != NULL)
 	{
-		if (fd == (int)(*find)->content_size)
-			return ;
-		*find = (*find)->next;
-	}
-	*find = ft_lstnew(NULL, 0);
-	(*find)->content_size = fd;
-	ft_lstadd(begin_list, *find);
-}
-
-static int	ft_read(char **musorok, int fd)
-{
-	int		read_count;
-	size_t	beg;
-	char	*dst;
-
-	if (*musorok == NULL)
-		*musorok = ft_strnew(BUFF_SIZE);
-	while (ft_strchr(*musorok, '\n') == NULL)
-	{
-		dst = ft_strnew(ft_strlen(*musorok) + BUFF_SIZE);
-		ft_strcpy(dst, *musorok);
-		ft_strdel(musorok);
-		*musorok = dst;
-		beg = ft_strlen(*musorok);
-		read_count = read(fd, &(*musorok)[beg], BUFF_SIZE);
-		if (read_count < 0)
-			return (-1);
-		if ((*musorok)[beg] == '\0' && read_count == 0)
-			return (0);
-	}
-	return (1);
-}
-
-static int	check(char **musorok, char **line)
-{
-	char *find;
-	char *dst;
-
-	dst = NULL;
-	find = ft_strchr(*musorok, '\n');
-	*line = ft_strsub(*musorok, 0, find - (*musorok));
-	dst = ft_strsub(find + 1, 0, ft_strlen(find) - 1);
-	free(*musorok);
-	*musorok = dst;
-	return (1);
-}
-
-static int	ft_find(char **musorok, int fd, char **line)
-{
-	int		bla;
-
-	if (*musorok == NULL || ft_strchr(*musorok, '\n') == NULL)
-	{
-		if ((bla = ft_read(musorok, fd)) == 0)
+		if ((*to_del)->content_size == fd)
 		{
-			if (ft_strchr(*musorok, '\n') != NULL)
-				return (check(musorok, line));
-			else if (ft_strchr(*musorok, '\n') == NULL && *(*musorok) != '\0')
-			{
-				*line = ft_strdup(*musorok);
-				ft_strdel(musorok);
-				return (1);
-			}
-			else
-			{
-				ft_strdel(musorok);
-				return (0);
-			}
+			free((*to_del)->content);
+			if (prev != NULL)
+				prev->next = (*to_del)->next;
+			free(*to_del);
+			*to_del = NULL;
+			return ;
 		}
-		else if (bla == -1)
-			return (-1);
+		prev = *to_del;
+		to_del = &((*to_del)->next);
 	}
-	return (check(musorok, line));
 }
 
-int			get_next_line(const int fd, char **line)
+t_list	*reader_for_fd(int fd, t_list **fd_list)
 {
-	static	t_list	*start;
-	t_list			*find;
-	char			*tmp;
-	int				res;
+	t_list		*el;
 
-	if (fd >= 0 && line != NULL && BUFF_SIZE > 0)
+	el = *fd_list;
+	while (el)
 	{
-		ft_search_fd(&start, fd, &find);
-		tmp = (char *)find->content;
-		res = ft_find(&tmp, fd, line);
-		find->content = (void*)tmp;
-		return (res);
+		if ((int)(el->content_size) == fd)
+			return (el);
+		el = el->next;
 	}
-	return (-1);
+	if ((el = ft_lstnew(NULL, 1)) == NULL)
+		return (NULL);
+	el->content = ft_strnew(1);
+	el->content_size = fd;
+	if (*fd_list == NULL)
+		*fd_list = el;
+	else
+		ft_lstappend(*fd_list, el);
+	return (el);
+}
+
+int		set_line_and_return(t_list **head, t_list *cur_read, char **line)
+{
+	char	*temp;
+
+	if ((temp = ft_strchr((char *)(cur_read->content), '\n')) == NULL)
+	{
+		*line = ft_strdup((char *)(cur_read->content));
+		delete_list_el(head, cur_read->content_size);
+		head = head + 1;
+		return (1);
+	}
+	*line = ft_strnew(ft_strlen(cur_read->content) - ft_strlen(temp));
+	ft_strncpy(*line, cur_read->content, ft_strlen(cur_read->content) - \
+		ft_strlen(temp));
+	temp = ft_strdup(temp + 1);
+	free(cur_read->content);
+	cur_read->content = temp;
+	return (1);
+}
+
+
+
+int		get_next_line(const int fd, char **line)
+{
+	static	t_list	*fd_list;
+	t_list			*cur_read;
+	char			buf[BUFF_SIZE + 1];
+	char			*temp;
+	int				len;
+
+	if ((line == NULL) || (fd < 0))
+		return (-1);
+	if ((cur_read = reader_for_fd(fd, &fd_list)) == NULL)
+		return (-1);
+	if ((temp = ft_strchr((char *)(cur_read->content), '\n')) != NULL)
+		return (set_line_and_return(&fd_list, cur_read, line));
+	while ((len = read(fd, buf, BUFF_SIZE)))
+	{
+		if (len < 0)
+			return (-1);
+		buf[len] = '\0';
+		temp = ft_strjoin((char *)(cur_read->content), buf);
+		free(cur_read->content);
+		cur_read->content = temp;
+		if ((temp = ft_strchr((char *)(cur_read->content), '\n')) != NULL)
+			break ;
+	}
+	if (ft_strlen(cur_read->content) == 0)
+		return (0);
+	return (set_line_and_return(&fd_list, cur_read, line));
 }

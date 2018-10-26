@@ -6,7 +6,7 @@
 /*   By: agordiyc <agordiyc@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/11/29 21:04:17 by agordiyc          #+#    #+#             */
-/*   Updated: 2017/11/29 23:50:16 by agordiyc         ###   ########.fr       */
+/*   Updated: 2017/12/10 17:10:09 by agordiyc         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,6 +15,6 @@
 void	*ft_memset(void *b, int c, size_t len)
 {
 	while (len-- > 0)
-		((unsigned char*)b)[len] = c;
+		((unsigned char*)b)[len] = (unsigned char)c;
 	return (b);
 }

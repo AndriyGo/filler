@@ -1,0 +1,4806 @@
+Solved
+12 13
+Solved
+12 12
+Solved
+11 13
+Solved
+10 14
+Solved
+9 12
+Solved
+10 11
+Solved
+10 10
+Solved
+10 8
+Solved
+9 14
+Solved
+9 14
+Solved
+10 7
+Solved
+9 13
+Solved
+12 14
+Solved
+8 11
+Solved
+7 11
+Solved
+7 10
+Solved
+6 10
+Solved
+5 10
+Solved
+4 9
+Solved
+5 8
+Solved
+5 7
+Solved
+5 6
+Solved
+5 4
+Solved
+5 3
+Solved
+5 1
+Solved
+6 0
+Solved
+13 12
+Solved
+6 -1
+Solved
+6 3
+Solved
+3 9
+Solved
+2 9
+Solved
+6 4
+Solved
+12 13
+Solved
+12 15
+Solved
+12 13
+Solved
+1 9
+Solved
+0 9
+Solved
+6 5
+Solved
+9 7
+Solved
+11 12
+Solved
+9 6
+Solved
+6 0
+Solved
+0 7
+Solved
+7 1
+Solved
+8 1
+Solved
+9 1
+Solved
+10 0
+Solved
+10 0
+Solved
+11 1
+Solved
+11 2
+Solved
+11 1
+Solved
+12 0
+Solved
+0 7
+Solved
+0 6
+Solved
+0 4
+Solved
+0 5
+Solved
+0 3
+Solved
+0 4
+Solved
+0 6
+Solved
+0 9
+Solved
+0 2
+Solved
+0 3
+Solved
+-1 2
+Solved
+0 2
+Solved
+0 10
+Solved
+0 1
+Solved
+0 0
+Solved
+0 0
+Solved
+0 1
+Solved
+1 0
+Solved
+0 11
+Solved
+0 12
+Solved
+0 14
+Solved
+1 11
+Solved
+0 14
+Solved
+0 14
+Solved
+1 14
+Solved
+1 15
+Solved
+2 0
+Solved
+1 3
+Solved
+2 3
+Solved
+2 5
+Solved
+2 5
+Solved
+1 8
+Solved
+1 10
+Solved
+2 10
+Solved
+2 11
+Solved
+2 13
+Solved
+1 15
+Solved
+2 -1
+Solved
+1 16
+Solved
+2 2
+Solved
+2 3
+Solved
+2 4
+Solved
+3 3
+Solved
+3 5
+Solved
+3 6
+Solved
+3 6
+Solved
+3 10
+Solved
+2 13
+Solved
+3 13
+Solved
+2 16
+Solved
+4 2
+Solved
+4 1
+Solved
+4 0
+Solved
+3 4
+Solved
+3 5
+Solved
+3 6
+Solved
+3 7
+Solved
+4 10
+Solved
+4 7
+Solved
+3 13
+Solved
+4 13
+Solved
+5 0
+Solved
+4 15
+Solved
+4 11
+Solved
+5 11
+Solved
+5 11
+Solved
+5 13
+Solved
+5 10
+Solved
+6 11
+Solved
+6 12
+Solved
+6 12
+Solved
+5 15
+Solved
+6 15
+Solved
+7 11
+Solved
+6 13
+Solved
+6 14
+Solved
+6 16
+Solved
+7 0
+Solved
+8 13
+Solved
+Solved
+11 13
+Solved
+11 13
+Solved
+11 12
+Solved
+11 11
+Solved
+10 11
+Solved
+10 10
+Solved
+9 10
+Solved
+9 8
+Solved
+12 14
+Solved
+12 14
+Solved
+8 8
+Solved
+13 12
+Solved
+8 10
+Solved
+9 6
+Solved
+11 11
+Solved
+9 5
+Solved
+10 9
+Solved
+8 5
+Solved
+8 12
+Solved
+11 9
+Solved
+12 9
+Solved
+9 4
+Solved
+9 13
+Solved
+11 8
+Solved
+14 11
+Solved
+8 7
+Solved
+8 15
+Solved
+13 11
+Solved
+8 9
+Solved
+14 10
+Solved
+10 14
+Solved
+7 16
+Solved
+6 16
+Solved
+10 11
+Solved
+11 10
+Solved
+8 13
+Solved
+9 8
+Solved
+10 15
+Solved
+10 16
+Solved
+13 9
+Solved
+12 11
+Solved
+12 15
+Solved
+12 15
+Solved
+14 13
+Solved
+14 14
+Solved
+14 15
+Solved
+Solved
+11 14
+Solved
+10 13
+Solved
+9 11
+Solved
+8 9
+Solved
+8 9
+Solved
+10 14
+Solved
+9 15
+Solved
+7 10
+Solved
+6 10
+Solved
+5 9
+Solved
+4 9
+Solved
+3 8
+Solved
+4 6
+Solved
+3 6
+Solved
+4 5
+Solved
+4 4
+Solved
+4 2
+Solved
+2 5
+Solved
+4 2
+Solved
+5 1
+Solved
+1 6
+Solved
+5 0
+Solved
+0 5
+Solved
+6 1
+Solved
+7 0
+Solved
+8 1
+Solved
+9 0
+Solved
+10 2
+Solved
+11 3
+Solved
+11 5
+Solved
+12 5
+Solved
+13 5
+Solved
+11 6
+Solved
+7 8
+Solved
+7 1
+Solved
+6 8
+Solved
+6 6
+Solved
+11 7
+Solved
+6 4
+Solved
+6 4
+Solved
+10 7
+Solved
+11 7
+Solved
+6 5
+Solved
+13 4
+Solved
+0 6
+Solved
+13 6
+Solved
+0 5
+Solved
+0 4
+Solved
+0 3
+Solved
+0 2
+Solved
+0 1
+Solved
+0 -1
+Solved
+0 3
+Solved
+1 3
+Solved
+0 8
+Solved
+1 0
+Solved
+0 8
+Solved
+0 8
+Solved
+-1 10
+Solved
+0 9
+Solved
+-1 11
+Solved
+0 10
+Solved
+0 13
+Solved
+0 13
+Solved
+0 14
+Solved
+2 -1
+Solved
+1 2
+Solved
+2 1
+Solved
+1 5
+Solved
+1 7
+Solved
+1 9
+Solved
+1 10
+Solved
+1 12
+Solved
+2 12
+Solved
+1 14
+Solved
+1 15
+Solved
+1 16
+Solved
+2 0
+Solved
+2 2
+Solved
+2 5
+Solved
+2 7
+Solved
+2 8
+Solved
+2 9
+Solved
+3 9
+Solved
+2 11
+Solved
+3 12
+Solved
+3 12
+Solved
+2 15
+Solved
+3 15
+Solved
+4 10
+Solved
+4 0
+Solved
+3 12
+Solved
+4 0
+Solved
+5 2
+Solved
+5 3
+Solved
+4 6
+Solved
+5 7
+Solved
+4 12
+Solved
+5 13
+Solved
+6 10
+Solved
+4 16
+Solved
+6 -1
+Solved
+6 1
+Solved
+6 2
+Solved
+5 15
+Solved
+6 12
+Solved
+7 12
+Solved
+6 14
+Solved
+7 12
+Solved
+11 -8
+Solved
+7 13
+Solved
+7 14
+Solved
+7 15
+Solved
+8 11
+Solved
+9 13
+Solved
+8 14
+Solved
+9 0
+Solved
+10 1
+Solved
+10 0
+Solved
+11 2
+Solved
+12 -1
+Solved
+11 6
+Solved
+13 0
+Solved
+Solved
+12 13
+Solved
+12 11
+Solved
+11 12
+Solved
+11 10
+Solved
+10 11
+Solved
+10 9
+Solved
+11 14
+Solved
+9 8
+Solved
+12 12
+Solved
+9 7
+Solved
+8 8
+Solved
+13 12
+Solved
+11 10
+Solved
+9 10
+Solved
+9 6
+Solved
+8 12
+Solved
+9 13
+Solved
+13 11
+Solved
+9 14
+Solved
+13 11
+Solved
+8 9
+Solved
+7 10
+Solved
+10 9
+Solved
+6 11
+Solved
+7 12
+Solved
+7 14
+Solved
+8 16
+Solved
+10 12
+Solved
+7 14
+Solved
+Solved
+11 13
+Solved
+12 12
+Solved
+11 12
+Solved
+10 11
+Solved
+10 9
+Solved
+12 12
+Solved
+12 13
+Solved
+11 14
+Solved
+11 8
+Solved
+11 7
+Solved
+11 5
+Solved
+11 4
+Solved
+11 4
+Solved
+10 7
+Solved
+11 2
+Solved
+11 1
+Solved
+11 0
+Solved
+9 12
+Solved
+13 12
+Solved
+9 6
+Solved
+9 12
+Solved
+9 13
+Solved
+9 4
+Solved
+9 3
+Solved
+9 2
+Solved
+9 1
+Solved
+9 -1
+Solved
+10 5
+Solved
+11 15
+Solved
+10 15
+Solved
+9 -1
+Solved
+10 1
+Solved
+10 2
+Solved
+9 2
+Solved
+10 12
+Solved
+11 -1
+Solved
+9 14
+Solved
+11 11
+Solved
+11 2
+Solved
+10 14
+Solved
+11 5
+Solved
+11 5
+Solved
+12 7
+Solved
+11 9
+Solved
+11 11
+Solved
+12 0
+Solved
+12 1
+Solved
+13 0
+Solved
+13 2
+Solved
+13 3
+Solved
+13 4
+Solved
+13 6
+Solved
+12 8
+Solved
+12 9
+Solved
+12 10
+Solved
+13 10
+Solved
+12 13
+Solved
+12 15
+Solved
+13 0
+Solved
+13 14
+Solved
+13 2
+Solved
+14 1
+Solved
+Solved
+12 13
+Solved
+12 12
+Solved
+12 11
+Solved
+11 9
+Solved
+11 7
+Solved
+10 8
+Solved
+12 14
+Solved
+9 6
+Solved
+12 14
+Solved
+8 6
+Solved
+12 9
+Solved
+13 8
+Solved
+9 5
+Solved
+9 8
+Solved
+13 6
+Solved
+9 5
+Solved
+9 10
+Solved
+10 5
+Solved
+9 9
+Solved
+11 12
+Solved
+9 11
+Solved
+9 12
+Solved
+8 13
+Solved
+7 12
+Solved
+9 14
+Solved
+9 6
+Solved
+11 7
+Solved
+11 4
+Solved
+12 8
+Solved
+13 6
+Solved
+10 6
+Solved
+9 12
+Solved
+10 11
+Solved
+9 14
+Solved
+10 14
+Solved
+9 16
+Solved
+11 8
+Solved
+11 10
+Solved
+11 12
+Solved
+10 14
+Solved
+Solved
+12 13
+Solved
+12 11
+Solved
+11 10
+Solved
+8 10
+Solved
+9 10
+Solved
+9 9
+Solved
+8 8
+Solved
+7 6
+Solved
+6 5
+Solved
+5 5
+Solved
+7 3
+Solved
+4 5
+Solved
+12 14
+Solved
+6 1
+Solved
+13 15
+Solved
+-5 5
+Solved
+2 5
+Solved
+1 5
+Solved
+7 0
+Solved
+0 5
+Solved
+12 12
+Solved
+9 7
+Solved
+0 4
+Solved
+7 1
+Solved
+0 2
+Solved
+0 0
+Solved
+9 4
+Solved
+0 -1
+Solved
+9 4
+Solved
+8 1
+Solved
+7 0
+Solved
+8 0
+Solved
+0 6
+Solved
+0 6
+Solved
+0 8
+Solved
+0 9
+Solved
+0 10
+Solved
+9 0
+Solved
+0 11
+Solved
+0 12
+Solved
+0 14
+Solved
+0 7
+Solved
+0 9
+Solved
+10 0
+Solved
+11 0
+Solved
+0 14
+Solved
+1 10
+Solved
+12 0
+Solved
+0 14
+Solved
+2 3
+Solved
+13 0
+Solved
+2 1
+Solved
+1 15
+Solved
+2 -1
+Solved
+1 6
+Solved
+2 6
+Solved
+2 7
+Solved
+2 8
+Solved
+2 9
+Solved
+1 11
+Solved
+2 11
+Solved
+2 12
+Solved
+2 14
+Solved
+3 1
+Solved
+2 0
+Solved
+2 2
+Solved
+2 14
+Solved
+2 6
+Solved
+2 11
+Solved
+4 0
+Solved
+3 0
+Solved
+3 3
+Solved
+3 5
+Solved
+3 7
+Solved
+4 8
+Solved
+4 9
+Solved
+3 12
+Solved
+3 13
+Solved
+3 14
+Solved
+4 14
+Solved
+4 0
+Solved
+5 0
+Solved
+5 1
+Solved
+5 1
+Solved
+5 2
+Solved
+5 5
+Solved
+4 7
+Solved
+5 6
+Solved
+4 9
+Solved
+4 12
+Solved
+5 12
+Solved
+5 13
+Solved
+6 7
+Solved
+5 14
+Solved
+5 2
+Solved
+5 3
+Solved
+6 3
+Solved
+5 10
+Solved
+6 6
+Solved
+5 12
+Solved
+5 13
+Solved
+6 14
+Solved
+9 10
+Solved
+6 15
+Solved
+6 9
+Solved
+6 11
+Solved
+7 11
+Solved
+7 13
+Solved
+6 15
+Solved
+7 10
+Solved
+8 10
+Solved
+7 13
+Solved
+7 14
+Solved
+8 13
+Solved
+8 15
+Solved
+8 13
+Solved
+8 15
+Solved
+9 15
+Solved
+10 10
+Solved
+9 13
+Solved
+10 11
+Solved
+10 13
+Solved
+11 14
+Solved
+11 12
+Solved
+10 14
+Solved
+13 15
+Solved
+Solved
+12 13
+Solved
+11 11
+Solved
+5 12
+Solved
+9 12
+Solved
+8 12
+Solved
+7 11
+Solved
+7 10
+Solved
+6 10
+Solved
+5 10
+Solved
+4 9
+Solved
+5 7
+Solved
+12 14
+Solved
+3 9
+Solved
+13 15
+Solved
+5 7
+Solved
+5 6
+Solved
+5 5
+Solved
+4 4
+Solved
+5 2
+Solved
+5 1
+Solved
+5 0
+Solved
+9 10
+Solved
+2 8
+Solved
+8 10
+Solved
+1 8
+Solved
+0 6
+Solved
+6 2
+Solved
+6 3
+Solved
+0 6
+Solved
+7 0
+Solved
+0 4
+Solved
+6 4
+Solved
+7 -1
+Solved
+-1 3
+Solved
+0 1
+Solved
+8 1
+Solved
+9 1
+Solved
+9 2
+Solved
+9 2
+Solved
+10 1
+Solved
+11 1
+Solved
+12 1
+Solved
+12 3
+Solved
+10 3
+Solved
+10 4
+Solved
+13 0
+Solved
+0 1
+Solved
+14 2
+Solved
+-1 -1
+Solved
+0 8
+Solved
+0 9
+Solved
+0 9
+Solved
+0 11
+Solved
+0 12
+Solved
+0 2
+Solved
+0 13
+Solved
+0 14
+Solved
+0 0
+Solved
+1 3
+Solved
+0 10
+Solved
+0 14
+Solved
+1 12
+Solved
+0 14
+Solved
+0 15
+Solved
+0 16
+Solved
+1 -1
+Solved
+1 1
+Solved
+2 2
+Solved
+2 3
+Solved
+2 4
+Solved
+2 9
+Solved
+1 7
+Solved
+2 13
+Solved
+1 13
+Solved
+2 14
+Solved
+2 0
+Solved
+2 1
+Solved
+3 1
+Solved
+3 3
+Solved
+2 6
+Solved
+3 10
+Solved
+2 13
+Solved
+3 13
+Solved
+3 14
+Solved
+2 14
+Solved
+4 5
+Solved
+4 0
+Solved
+3 8
+Solved
+3 12
+Solved
+3 14
+Solved
+4 14
+Solved
+5 10
+Solved
+5 12
+Solved
+4 14
+Solved
+5 15
+Solved
+5 11
+Solved
+6 14
+Solved
+5 11
+Solved
+6 11
+Solved
+5 12
+Solved
+6 15
+Solved
+8 12
+Solved
+7 14
+Solved
+8 13
+Solved
+8 14
+Solved
+7 16
+Solved
+9 -1
+Solved
+9 15
+Solved
+9 0
+Solved
+10 13
+Solved
+9 1
+Solved
+10 14
+Solved
+10 14
+Solved
+11 0
+Solved
+Solved
+12 13
+Solved
+12 12
+Solved
+12 10
+Solved
+11 9
+Solved
+10 9
+Solved
+10 8
+Solved
+9 8
+Solved
+8 8
+Solved
+7 8
+Solved
+12 14
+Solved
+12 14
+Solved
+12 7
+Solved
+12 7
+Solved
+12 7
+Solved
+13 7
+Solved
+12 5
+Solved
+13 5
+Solved
+12 4
+Solved
+12 2
+Solved
+12 1
+Solved
+12 0
+Solved
+11 0
+Solved
+7 7
+Solved
+10 0
+Solved
+9 -1
+Solved
+7 8
+Solved
+7 10
+Solved
+6 11
+Solved
+7 13
+Solved
+8 9
+Solved
+7 14
+Solved
+7 11
+Solved
+6 11
+Solved
+8 12
+Solved
+8 0
+Solved
+6 12
+Solved
+5 12
+Solved
+5 12
+Solved
+6 12
+Solved
+7 0
+Solved
+5 14
+Solved
+6 -1
+Solved
+6 0
+Solved
+6 15
+Solved
+9 9
+Solved
+8 13
+Solved
+9 13
+Solved
+8 14
+Solved
+10 10
+Solved
+9 10
+Solved
+9 14
+Solved
+10 12
+Solved
+9 13
+Solved
+10 14
+Solved
+10 11
+Solved
+10 12
+Solved
+11 13
+Solved
+11 14
+Solved
+12 0
+Solved
+13 0
+Solved
+13 3
+Solved
+13 0
+Solved
+13 7
+Solved
+12 10
+Solved
+13 12
+Solved
+12 14
+Solved
+12 15
+Solved
+14 8
+Solved
+13 15
+Solved
+Solved
+11 12
+Solved
+11 12
+Solved
+10 12
+Solved
+10 10
+Solved
+10 9
+Solved
+10 7
+Solved
+10 13
+Solved
+9 8
+Solved
+10 14
+Solved
+8 8
+Solved
+11 10
+Solved
+12 11
+Solved
+12 11
+Solved
+13 11
+Solved
+10 7
+Solved
+11 11
+Solved
+10 6
+Solved
+10 7
+Solved
+9 11
+Solved
+9 13
+Solved
+8 8
+Solved
+8 10
+Solved
+7 11
+Solved
+12 10
+Solved
+13 10
+Solved
+8 13
+Solved
+7 15
+Solved
+8 14
+Solved
+13 10
+Solved
+8 9
+Solved
+12 13
+Solved
+9 8
+Solved
+11 15
+Solved
+13 14
+Solved
+13 12
+Solved
+12 8
+Solved
+9 15
+Solved
+9 14
+Solved
+10 10
+Solved
+Solved
+11 14
+Solved
+11 13
+Solved
+11 11
+Solved
+10 10
+Solved
+11 9
+Solved
+11 8
+Solved
+12 14
+Solved
+9 11
+Solved
+8 10
+Solved
+12 14
+Solved
+7 11
+Solved
+11 7
+Solved
+9 8
+Solved
+6 11
+Solved
+5 11
+Solved
+5 10
+Solved
+6 9
+Solved
+4 9
+Solved
+6 7
+Solved
+5 6
+Solved
+5 4
+Solved
+6 2
+Solved
+6 0
+Solved
+3 9
+Solved
+2 9
+Solved
+1 9
+Solved
+6 0
+Solved
+6 5
+Solved
+10 10
+Solved
+6 5
+Solved
+7 4
+Solved
+0 7
+Solved
+7 2
+Solved
+0 6
+Solved
+10 7
+Solved
+10 5
+Solved
+6 0
+Solved
+7 1
+Solved
+8 0
+Solved
+13 15
+Solved
+8 1
+Solved
+9 0
+Solved
+10 0
+Solved
+10 -1
+Solved
+10 0
+Solved
+0 4
+Solved
+11 1
+Solved
+12 0
+Solved
+12 -1
+Solved
+12 0
+Solved
+0 4
+Solved
+13 0
+Solved
+0 3
+Solved
+0 3
+Solved
+0 2
+Solved
+0 0
+Solved
+0 1
+Solved
+0 6
+Solved
+2 7
+Solved
+0 4
+Solved
+0 -1
+Solved
+0 9
+Solved
+0 10
+Solved
+0 11
+Solved
+0 0
+Solved
+0 9
+Solved
+0 11
+Solved
+0 13
+Solved
+1 10
+Solved
+0 12
+Solved
+0 15
+Solved
+1 12
+Solved
+1 13
+Solved
+0 15
+Solved
+1 0
+Solved
+2 1
+Solved
+2 3
+Solved
+2 4
+Solved
+2 14
+Solved
+1 15
+Solved
+3 2
+Solved
+2 10
+Solved
+2 0
+Solved
+3 -1
+Solved
+3 4
+Solved
+2 6
+Solved
+2 13
+Solved
+3 15
+Solved
+4 7
+Solved
+4 6
+Solved
+4 5
+Solved
+4 3
+Solved
+4 1
+Solved
+4 1
+Solved
+4 11
+Solved
+4 0
+Solved
+3 5
+Solved
+3 14
+Solved
+3 15
+Solved
+4 15
+Solved
+5 1
+Solved
+5 7
+Solved
+4 -1
+Solved
+5 11
+Solved
+4 14
+Solved
+4 15
+Solved
+5 14
+Solved
+6 11
+Solved
+5 14
+Solved
+5 14
+Solved
+5 16
+Solved
+7 12
+Solved
+7 13
+Solved
+6 16
+Solved
+7 15
+Solved
+9 11
+Solved
+9 13
+Solved
+9 12
+Solved
+8 15
+Solved
+10 13
+Solved
+9 15
+Solved
+11 14
+Solved
+9 16
+Solved
+Solved
+11 14
+Solved
+11 13
+Solved
+11 12
+Solved
+10 12
+Solved
+9 12
+Solved
+9 11
+Solved
+12 14
+Solved
+8 11
+Solved
+7 9
+Solved
+6 9
+Solved
+7 8
+Solved
+6 8
+Solved
+5 7
+Solved
+5 5
+Solved
+6 3
+Solved
+6 3
+Solved
+4 3
+Solved
+7 1
+Solved
+7 0
+Solved
+11 11
+Solved
+11 9
+Solved
+11 9
+Solved
+3 5
+Solved
+12 8
+Solved
+12 7
+Solved
+2 5
+Solved
+12 5
+Solved
+1 4
+Solved
+0 4
+Solved
+13 12
+Solved
+7 0
+Solved
+8 0
+Solved
+12 10
+Solved
+9 1
+Solved
+10 -1
+Solved
+9 10
+Solved
+11 9
+Solved
+11 1
+Solved
+12 0
+Solved
+0 3
+Solved
+12 1
+Solved
+12 0
+Solved
+13 0
+Solved
+0 2
+Solved
+0 2
+Solved
+0 5
+Solved
+0 1
+Solved
+0 5
+Solved
+0 0
+Solved
+0 5
+Solved
+0 7
+Solved
+0 9
+Solved
+0 9
+Solved
+0 10
+Solved
+0 12
+Solved
+0 0
+Solved
+0 9
+Solved
+0 12
+Solved
+0 14
+Solved
+0 14
+Solved
+0 15
+Solved
+0 15
+Solved
+1 0
+Solved
+2 0
+Solved
+2 1
+Solved
+1 2
+Solved
+2 5
+Solved
+2 6
+Solved
+2 6
+Solved
+2 8
+Solved
+2 8
+Solved
+2 9
+Solved
+2 11
+Solved
+2 12
+Solved
+1 14
+Solved
+3 3
+Solved
+2 15
+Solved
+3 1
+Solved
+3 0
+Solved
+2 5
+Solved
+3 -1
+Solved
+3 6
+Solved
+3 8
+Solved
+3 9
+Solved
+3 10
+Solved
+3 10
+Solved
+2 13
+Solved
+3 13
+Solved
+3 2
+Solved
+3 3
+Solved
+3 3
+Solved
+4 4
+Solved
+4 12
+Solved
+4 6
+Solved
+4 14
+Solved
+4 15
+Solved
+5 4
+Solved
+5 1
+Solved
+5 0
+Solved
+5 5
+Solved
+5 7
+Solved
+4 10
+Solved
+5 10
+Solved
+5 10
+Solved
+4 13
+Solved
+5 13
+Solved
+5 13
+Solved
+5 15
+Solved
+6 10
+Solved
+5 0
+Solved
+5 13
+Solved
+6 15
+Solved
+6 12
+Solved
+7 11
+Solved
+7 13
+Solved
+7 15
+Solved
+8 14
+Solved
+10 12
+Solved
+10 14
+Solved
+Solved
+11 14
+Solved
+11 13
+Solved
+11 12
+Solved
+10 11
+Solved
+11 10
+Solved
+12 14
+Solved
+11 9
+Solved
+13 15
+Solved
+11 8
+Solved
+9 12
+Solved
+11 7
+Solved
+11 5
+Solved
+11 5
+Solved
+8 10
+Solved
+8 9
+Solved
+7 8
+Solved
+6 8
+Solved
+6 6
+Solved
+13 13
+Solved
+13 12
+Solved
+8 7
+Solved
+14 15
+Solved
+14 14
+Solved
+5 9
+Solved
+4 7
+Solved
+5 7
+Solved
+4 7
+Solved
+12 13
+Solved
+11 5
+Solved
+3 9
+Solved
+3 8
+Solved
+2 9
+Solved
+2 8
+Solved
+10 5
+Solved
+10 4
+Solved
+9 4
+Solved
+5 11
+Solved
+8 5
+Solved
+4 12
+Solved
+9 4
+Solved
+6 6
+Solved
+4 14
+Solved
+2 10
+Solved
+2 11
+Solved
+3 13
+Solved
+3 15
+Solved
+3 16
+Solved
+2 12
+Solved
+2 13
+Solved
+2 15
+Solved
+3 9
+Solved
+3 10
+Solved
+3 11
+Solved
+4 10
+Solved
+4 11
+Solved
+1 15
+Solved
+3 12
+Solved
+5 14
+Solved
+6 11
+Solved
+5 13
+Solved
+5 16
+Solved
+7 6
+Solved
+7 9
+Solved
+7 11
+Solved
+7 12
+Solved
+6 14
+Solved
+7 13
+Solved
+7 15
+Solved
+7 6
+Solved
+8 6
+Solved
+8 12
+Solved
+8 13
+Solved
+9 6
+Solved
+9 15
+Solved
+10 14
+Solved
+10 8
+Solved
+10 9
+Solved
+10 11
+Solved
+12 14
+Solved
+9 14
+Solved
+10 16
+Solved
+Solved
+11 14
+Solved
+10 14
+Solved
+9 14
+Solved
+12 14
+Solved
+13 14
+Solved
+9 12
+Solved
+8 12
+Solved
+9 11
+Solved
+9 10
+Solved
+9 14
+Solved
+9 15
+Solved
+7 13
+Solved
+9 8
+Solved
+7 11
+Solved
+6 13
+Solved
+7 10
+Solved
+5 13
+Solved
+5 11
+Solved
+6 13
+Solved
+6 11
+Solved
+9 8
+Solved
+14 13
+Solved
+13 12
+Solved
+13 11
+Solved
+12 13
+Solved
+7 9
+Solved
+8 7
+Solved
+11 12
+Solved
+8 16
+Solved
+12 11
+Solved
+11 10
+Solved
+11 9
+Solved
+6 14
+Solved
+9 9
+Solved
+8 10
+Solved
+10 9
+Solved
+7 15
+Solved
+8 13
+Solved
+10 9
+Solved
+10 10
+Solved
+10 12
+Solved
+10 14
+Solved
+11 14
+Solved
+10 15
+Solved
+11 15
+Solved
+12 15
+Solved
+13 13
+Solved
+Solved
+12 13
+Solved
+12 12
+Solved
+11 12
+Solved
+11 11
+Solved
+11 10
+Solved
+10 9
+Solved
+9 10
+Solved
+12 14
+Solved
+10 7
+Solved
+12 15
+Solved
+8 10
+Solved
+11 6
+Solved
+7 10
+Solved
+12 11
+Solved
+10 4
+Solved
+13 11
+Solved
+10 2
+Solved
+10 1
+Solved
+11 13
+Solved
+11 14
+Solved
+10 1
+Solved
+11 15
+Solved
+11 14
+Solved
+11 -1
+Solved
+8 9
+Solved
+7 0
+Solved
+7 9
+Solved
+9 9
+Solved
+9 11
+Solved
+9 12
+Solved
+9 13
+Solved
+11 0
+Solved
+10 9
+Solved
+10 11
+Solved
+10 12
+Solved
+12 1
+Solved
+12 2
+Solved
+10 0
+Solved
+12 4
+Solved
+11 7
+Solved
+12 7
+Solved
+12 8
+Solved
+13 7
+Solved
+13 5
+Solved
+11 11
+Solved
+12 -2
+Solved
+13 0
+Solved
+13 0
+Solved
+12 3
+Solved
+13 3
+Solved
+13 4
+Solved
+12 13
+Solved
+13 14
+Solved
+12 16
+Solved
+14 3
+Solved
+13 0
+Solved
+14 0
+Solved
+Solved
+12 12
+Solved
+11 11
+Solved
+10 9
+Solved
+10 9
+Solved
+9 8
+Solved
+12 12
+Solved
+12 14
+Solved
+12 15
+Solved
+9 7
+Solved
+9 6
+Solved
+9 4
+Solved
+13 12
+Solved
+9 2
+Solved
+9 2
+Solved
+9 1
+Solved
+9 0
+Solved
+9 10
+Solved
+10 13
+Solved
+11 13
+Solved
+11 15
+Solved
+11 15
+Solved
+10 12
+Solved
+10 6
+Solved
+9 -1
+Solved
+10 0
+Solved
+10 2
+Solved
+9 3
+Solved
+10 0
+Solved
+11 2
+Solved
+10 4
+Solved
+11 -2
+Solved
+11 5
+Solved
+11 7
+Solved
+12 3
+Solved
+11 7
+Solved
+11 0
+Solved
+12 1
+Solved
+12 5
+Solved
+11 8
+Solved
+12 9
+Solved
+12 0
+Solved
+13 -1
+Solved
+12 3
+Solved
+13 3
+Solved
+13 4
+Solved
+12 6
+Solved
+12 7
+Solved
+13 8
+Solved
+12 9
+Solved
+12 11
+Solved
+12 13
+Solved
+13 15
+Solved
+14 2
+Solved
+13 0
+Solved
+13 1
+Solved
+13 5
+Solved
+14 7
+Solved
+13 10
+Solved
+14 11
+Solved
+14 12
+Solved
+13 15
+Solved
+Solved
+12 12
+Solved
+11 11
+Solved
+11 11
+Solved
+10 11
+Solved
+10 9
+Solved
+10 7
+Solved
+12 14
+Solved
+12 15
+Solved
+11 9
+Solved
+11 8
+Solved
+12 12
+Solved
+13 11
+Solved
+11 6
+Solved
+11 4
+Solved
+11 3
+Solved
+10 12
+Solved
+10 13
+Solved
+12 4
+Solved
+13 2
+Solved
+11 16
+Solved
+14 1
+Solved
+13 5
+Solved
+10 16
+Solved
+10 14
+Solved
+14 -1
+Solved
+11 5
+Solved
+11 14
+Solved
+12 7
+Solved
+12 8
+Solved
+11 11
+Solved
+13 10
+Solved
+13 6
+Solved
+13 6
+Solved
+13 12
+Solved
+13 7
+Solved
+13 14
+Solved
+13 14
+Solved
+13 7
+Solved
+13 9
+Solved
+14 13
+Solved
+14 14
+Solved
+Solved
+11 14
+Solved
+11 12
+Solved
+11 12
+Solved
+10 11
+Solved
+9 12
+Solved
+11 10
+Solved
+8 12
+Solved
+7 12
+Solved
+12 13
+Solved
+13 15
+Solved
+6 12
+Solved
+11 9
+Solved
+5 12
+Solved
+4 12
+Solved
+11 8
+Solved
+11 7
+Solved
+6 11
+Solved
+6 9
+Solved
+11 5
+Solved
+6 7
+Solved
+3 12
+Solved
+5 5
+Solved
+4 4
+Solved
+5 3
+Solved
+2 11
+Solved
+5 2
+Solved
+5 1
+Solved
+5 0
+Solved
+1 12
+Solved
+11 5
+Solved
+0 11
+Solved
+10 3
+Solved
+11 3
+Solved
+9 10
+Solved
+9 8
+Solved
+5 1
+Solved
+9 7
+Solved
+6 2
+Solved
+7 3
+Solved
+9 4
+Solved
+5 0
+Solved
+7 4
+Solved
+9 3
+Solved
+10 6
+Solved
+9 4
+Solved
+0 9
+Solved
+10 3
+Solved
+0 10
+Solved
+0 8
+Solved
+6 0
+Solved
+1 9
+Solved
+1 10
+Solved
+0 7
+Solved
+0 7
+Solved
+0 6
+Solved
+0 5
+Solved
+0 3
+Solved
+0 3
+Solved
+0 1
+Solved
+0 1
+Solved
+0 0
+Solved
+0 2
+Solved
+0 0
+Solved
+0 5
+Solved
+0 6
+Solved
+0 6
+Solved
+0 12
+Solved
+0 13
+Solved
+0 13
+Solved
+0 14
+Solved
+1 14
+Solved
+0 14
+Solved
+1 15
+Solved
+1 7
+Solved
+2 6
+Solved
+1 -1
+Solved
+2 0
+Solved
+2 2
+Solved
+2 0
+Solved
+2 3
+Solved
+2 6
+Solved
+2 9
+Solved
+1 12
+Solved
+2 3
+Solved
+3 7
+Solved
+3 7
+Solved
+2 10
+Solved
+3 11
+Solved
+3 13
+Solved
+3 15
+Solved
+4 3
+Solved
+3 0
+Solved
+3 2
+Solved
+4 7
+Solved
+4 13
+Solved
+5 14
+Solved
+3 9
+Solved
+3 5
+Solved
+4 15
+Solved
+4 5
+Solved
+4 9
+Solved
+5 8
+Solved
+4 11
+Solved
+6 12
+Solved
+5 4
+Solved
+5 5
+Solved
+6 15
+Solved
+7 15
+Solved
+7 13
+Solved
+8 13
+Solved
+8 14
+Solved
+8 15
+Solved
+9 12
+Solved
+9 13
+Solved
+9 15
+Solved
+10 14
+Solved
+9 7
+Solved
+10 9
+Solved
+9 11
+Solved
+9 13
+Solved
+10 15
+Solved
+11 15
+Solved
+12 14
+Solved
+Solved
+11 12
+Solved
+12 11
+Solved
+12 9
+Solved
+12 8
+Solved
+11 13
+Solved
+11 14
+Solved
+13 9
+Solved
+10 12
+Solved
+12 6
+Solved
+12 5
+Solved
+11 4
+Solved
+10 2
+Solved
+11 1
+Solved
+9 13
+Solved
+8 14
+Solved
+12 0
+Solved
+7 13
+Solved
+6 13
+Solved
+10 10
+Solved
+5 15
+Solved
+10 1
+Solved
+4 14
+Solved
+3 13
+Solved
+2 12
+Solved
+3 12
+Solved
+1 11
+Solved
+3 11
+Solved
+3 10
+Solved
+3 8
+Solved
+3 7
+Solved
+3 6
+Solved
+3 9
+Solved
+3 5
+Solved
+2 3
+Solved
+4 9
+Solved
+5 9
+Solved
+2 1
+Solved
+6 7
+Solved
+3 0
+Solved
+10 0
+Solved
+4 0
+Solved
+0 13
+Solved
+-1 -2
+Solved
+4 1
+Solved
+3 6
+Solved
+3 7
+Solved
+3 4
+Solved
+0 12
+Solved
+1 14
+Solved
+0 11
+Solved
+0 10
+Solved
+0 8
+Solved
+0 9
+Solved
+0 7
+Solved
+0 6
+Solved
+0 5
+Solved
+0 3
+Solved
+0 2
+Solved
+0 1
+Solved
+1 0
+Solved
+0 0
+Solved
+0 4
+Solved
+0 4
+Solved
+0 10
+Solved
+0 14
+Solved
+1 6
+Solved
+1 10
+Solved
+1 15
+Solved
+1 2
+Solved
+2 3
+Solved
+2 4
+Solved
+12 2
+Solved
+3 15
+Solved
+1 6
+Solved
+1 8
+Solved
+2 8
+Solved
+2 9
+Solved
+1 10
+Solved
+2 11
+Solved
+3 0
+Solved
+4 16
+Solved
+5 14
+Solved
+8 14
+Solved
+11 0
+Solved
+12 14
+Solved
+13 4
+Solved
+7 15
+Solved
+8 15
+Solved
+10 15
+Solved
+12 6
+Solved
+12 10
+Solved
+13 13
+Solved
+12 0
+Solved
+12 16
+Solved
+Solved
+12 13
+Solved
+11 13
+Solved
+10 13
+Solved
+10 12
+Solved
+10 11
+Solved
+9 11
+Solved
+9 9
+Solved
+12 14
+Solved
+8 8
+Solved
+8 8
+Solved
+8 7
+Solved
+7 7
+Solved
+7 5
+Solved
+7 5
+Solved
+7 4
+Solved
+7 3
+Solved
+6 2
+Solved
+7 0
+Solved
+6 2
+Solved
+6 1
+Solved
+5 2
+Solved
+4 2
+Solved
+4 1
+Solved
+4 2
+Solved
+4 0
+Solved
+3 3
+Solved
+3 4
+Solved
+3 2
+Solved
+2 2
+Solved
+2 1
+Solved
+1 0
+Solved
+1 0
+Solved
+0 0
+Solved
+0 -1
+Solved
+0 0
+Solved
+0 2
+Solved
+0 3
+Solved
+7 0
+Solved
+7 3
+Solved
+0 5
+Solved
+0 2
+Solved
+0 6
+Solved
+8 0
+Solved
+9 0
+Solved
+0 7
+Solved
+10 -1
+Solved
+10 0
+Solved
+11 0
+Solved
+0 9
+Solved
+11 2
+Solved
+11 1
+Solved
+0 10
+Solved
+12 0
+Solved
+12 0
+Solved
+0 11
+Solved
+13 0
+Solved
+0 12
+Solved
+0 13
+Solved
+0 4
+Solved
+0 13
+Solved
+0 5
+Solved
+0 7
+Solved
+0 14
+Solved
+0 13
+Solved
+1 8
+Solved
+1 3
+Solved
+2 5
+Solved
+1 15
+Solved
+0 8
+Solved
+2 7
+Solved
+2 9
+Solved
+2 11
+Solved
+2 13
+Solved
+2 14
+Solved
+2 15
+Solved
+2 1
+Solved
+3 0
+Solved
+2 8
+Solved
+3 9
+Solved
+2 13
+Solved
+2 14
+Solved
+3 13
+Solved
+2 16
+Solved
+4 5
+Solved
+3 7
+Solved
+4 7
+Solved
+4 10
+Solved
+3 11
+Solved
+3 13
+Solved
+4 14
+Solved
+4 0
+Solved
+4 4
+Solved
+5 0
+Solved
+4 8
+Solved
+5 8
+Solved
+4 9
+Solved
+5 10
+Solved
+6 8
+Solved
+5 11
+Solved
+5 13
+Solved
+3 15
+Solved
+6 0
+Solved
+5 4
+Solved
+5 6
+Solved
+5 7
+Solved
+5 14
+Solved
+6 14
+Solved
+6 10
+Solved
+5 16
+Solved
+7 12
+Solved
+7 13
+Solved
+7 14
+Solved
+7 15
+Solved
+8 9
+Solved
+8 9
+Solved
+7 12
+Solved
+7 13
+Solved
+8 12
+Solved
+7 16
+Solved
+9 13
+Solved
+9 15
+Solved
+9 14
+Solved
+9 14
+Solved
+10 14
+Solved
+11 13
+Solved
+11 14
+Solved
+Solved
+11 13
+Solved
+10 13
+Solved
+10 12
+Solved
+9 10
+Solved
+10 8
+Solved
+9 9
+Solved
+8 8
+Solved
+7 8
+Solved
+6 6
+Solved
+8 6
+Solved
+5 8
+Solved
+4 8
+Solved
+8 6
+Solved
+3 8
+Solved
+2 8
+Solved
+12 14
+Solved
+8 4
+Solved
+7 3
+Solved
+1 8
+Solved
+8 3
+Solved
+0 8
+Solved
+13 15
+Solved
+0 7
+Solved
+10 7
+Solved
+0 6
+Solved
+0 4
+Solved
+0 3
+Solved
+1 2
+Solved
+2 1
+Solved
+2 2
+Solved
+3 0
+Solved
+2 0
+Solved
+4 0
+Solved
+-1 2
+Solved
+0 1
+Solved
+-1 0
+Solved
+4 2
+Solved
+5 1
+Solved
+5 1
+Solved
+6 1
+Solved
+6 4
+Solved
+6 2
+Solved
+4 0
+Solved
+6 -1
+Solved
+6 0
+Solved
+0 -1
+Solved
+0 5
+Solved
+0 8
+Solved
+7 -1
+Solved
+0 10
+Solved
+0 11
+Solved
+0 11
+Solved
+1 6
+Solved
+0 13
+Solved
+8 0
+Solved
+9 0
+Solved
+0 14
+Solved
+0 9
+Solved
+-2 14
+Solved
+0 15
+Solved
+10 0
+Solved
+0 1
+Solved
+1 10
+Solved
+2 2
+Solved
+2 3
+Solved
+2 4
+Solved
+1 12
+Solved
+2 8
+Solved
+2 14
+Solved
+3 1
+Solved
+2 0
+Solved
+3 1
+Solved
+3 3
+Solved
+2 6
+Solved
+3 6
+Solved
+3 8
+Solved
+3 10
+Solved
+2 11
+Solved
+3 15
+Solved
+4 3
+Solved
+4 6
+Solved
+4 7
+Solved
+3 10
+Solved
+4 10
+Solved
+4 12
+Solved
+4 14
+Solved
+5 2
+Solved
+5 4
+Solved
+5 5
+Solved
+4 7
+Solved
+4 8
+Solved
+5 9
+Solved
+5 11
+Solved
+5 11
+Solved
+4 14
+Solved
+6 8
+Solved
+5 7
+Solved
+5 11
+Solved
+6 10
+Solved
+5 13
+Solved
+6 12
+Solved
+5 14
+Solved
+6 5
+Solved
+6 10
+Solved
+6 11
+Solved
+7 13
+Solved
+7 14
+Solved
+8 9
+Solved
+8 10
+Solved
+8 11
+Solved
+8 11
+Solved
+8 13
+Solved
+8 14
+Solved
+10 14
+Solved
+8 14
+Solved
+9 8
+Solved
+8 12
+Solved
+9 14
+Solved
+10 12
+Solved
+10 13
+Solved
+11 13
+Solved
+12 15
+Solved
+Solved
+12 12
+Solved
+11 13
+Solved
+10 13
+Solved
+9 13
+Solved
+12 11
+Solved
+8 11
+Solved
+7 12
+Solved
+8 11
+Solved
+8 10
+Solved
+6 12
+Solved
+5 12
+Solved
+4 12
+Solved
+3 12
+Solved
+2 11
+Solved
+1 12
+Solved
+12 13
+Solved
+12 15
+Solved
+0 11
+Solved
+9 11
+Solved
+13 12
+Solved
+0 10
+Solved
+1 9
+Solved
+1 8
+Solved
+1 7
+Solved
+1 5
+Solved
+2 5
+Solved
+3 4
+Solved
+3 3
+Solved
+3 1
+Solved
+3 1
+Solved
+3 -1
+Solved
+3 5
+Solved
+4 4
+Solved
+5 5
+Solved
+5 6
+Solved
+5 8
+Solved
+5 3
+Solved
+5 2
+Solved
+5 0
+Solved
+2 8
+Solved
+6 6
+Solved
+7 6
+Solved
+8 5
+Solved
+8 4
+Solved
+8 3
+Solved
+4 5
+Solved
+5 0
+Solved
+9 10
+Solved
+3 5
+Solved
+0 9
+Solved
+8 5
+Solved
+8 5
+Solved
+5 0
+Solved
+6 0
+Solved
+6 1
+Solved
+7 0
+Solved
+7 1
+Solved
+7 0
+Solved
+0 1
+Solved
+0 12
+Solved
+0 13
+Solved
+0 5
+Solved
+0 3
+Solved
+0 3
+Solved
+0 14
+Solved
+0 1
+Solved
+-1 0
+Solved
+0 0
+Solved
+0 14
+Solved
+0 1
+Solved
+1 3
+Solved
+1 5
+Solved
+2 2
+Solved
+1 1
+Solved
+2 -1
+Solved
+1 13
+Solved
+2 13
+Solved
+2 14
+Solved
+3 12
+Solved
+3 13
+Solved
+2 15
+Solved
+3 15
+Solved
+3 0
+Solved
+4 0
+Solved
+4 2
+Solved
+4 12
+Solved
+4 12
+Solved
+3 15
+Solved
+3 16
+Solved
+5 12
+Solved
+5 12
+Solved
+4 15
+Solved
+6 2
+Solved
+5 14
+Solved
+6 4
+Solved
+6 5
+Solved
+5 13
+Solved
+6 12
+Solved
+6 13
+Solved
+6 14
+Solved
+7 3
+Solved
+7 5
+Solved
+7 12
+Solved
+7 14
+Solved
+8 12
+Solved
+7 14
+Solved
+7 15
+Solved
+8 14
+Solved
+8 15
+Solved
+9 14
+Solved
+10 13
+Solved
+11 14
+Solved
+12 13
+Solved
+13 14
+Solved
+10 15
+Solved
+13 14
+Solved
+13 13
+Solved
+14 14
+Solved
+Solved
+12 12
+Solved
+11 12
+Solved
+11 11
+Solved
+11 9
+Solved
+10 9
+Solved
+10 7
+Solved
+11 14
+Solved
+9 7
+Solved
+12 10
+Solved
+8 8
+Solved
+10 6
+Solved
+12 8
+Solved
+12 7
+Solved
+11 7
+Solved
+12 9
+Solved
+8 8
+Solved
+8 10
+Solved
+11 6
+Solved
+7 11
+Solved
+8 12
+Solved
+7 13
+Solved
+8 13
+Solved
+13 8
+Solved
+7 10
+Solved
+14 7
+Solved
+13 5
+Solved
+7 15
+Solved
+7 13
+Solved
+7 13
+Solved
+7 14
+Solved
+7 15
+Solved
+9 8
+Solved
+6 13
+Solved
+6 13
+Solved
+9 10
+Solved
+9 11
+Solved
+9 13
+Solved
+9 13
+Solved
+8 16
+Solved
+9 10
+Solved
+10 10
+Solved
+9 12
+Solved
+9 14
+Solved
+11 13
+Solved
+13 10
+Solved
+10 15
+Solved
+12 13
+Solved
+13 12
+Solved
+13 13
+Solved
+14 9
+Solved
+14 11
+Solved
+13 14
+Solved
+14 14
+Solved
+Solved
+11 13
+Solved
+11 11
+Solved
+11 10
+Solved
+10 10
+Solved
+9 10
+Solved
+9 8
+Solved
+12 13
+Solved
+13 14
+Solved
+4 9
+Solved
+7 11
+Solved
+6 11
+Solved
+5 10
+Solved
+4 9
+Solved
+3 7
+Solved
+4 5
+Solved
+5 4
+Solved
+5 3
+Solved
+2 7
+Solved
+6 2
+Solved
+6 0
+Solved
+1 7
+Solved
+7 2
+Solved
+-3 9
+Solved
+11 9
+Solved
+7 3
+Solved
+7 4
+Solved
+7 3
+Solved
+7 1
+Solved
+8 1
+Solved
+9 1
+Solved
+10 0
+Solved
+7 5
+Solved
+10 1
+Solved
+5 5
+Solved
+10 -1
+Solved
+11 1
+Solved
+12 1
+Solved
+13 1
+Solved
+5 6
+Solved
+13 1
+Solved
+14 1
+Solved
+12 1
+Solved
+0 5
+Solved
+10 2
+Solved
+0 4
+Solved
+0 3
+Solved
+0 3
+Solved
+0 3
+Solved
+0 1
+Solved
+0 2
+Solved
+-1 0
+Solved
+0 0
+Solved
+0 0
+Solved
+0 7
+Solved
+0 1
+Solved
+0 8
+Solved
+0 8
+Solved
+0 5
+Solved
+0 11
+Solved
+0 12
+Solved
+0 13
+Solved
+0 12
+Solved
+0 14
+Solved
+1 10
+Solved
+0 15
+Solved
+1 0
+Solved
+1 3
+Solved
+0 15
+Solved
+1 15
+Solved
+1 4
+Solved
+1 7
+Solved
+1 10
+Solved
+2 10
+Solved
+1 11
+Solved
+1 14
+Solved
+1 16
+Solved
+3 5
+Solved
+3 4
+Solved
+3 3
+Solved
+3 3
+Solved
+3 2
+Solved
+2 0
+Solved
+3 0
+Solved
+3 11
+Solved
+2 12
+Solved
+3 13
+Solved
+2 16
+Solved
+3 0
+Solved
+3 1
+Solved
+4 1
+Solved
+3 3
+Solved
+3 5
+Solved
+4 4
+Solved
+5 11
+Solved
+3 11
+Solved
+4 12
+Solved
+3 14
+Solved
+4 0
+Solved
+4 1
+Solved
+5 2
+Solved
+4 13
+Solved
+4 14
+Solved
+4 15
+Solved
+5 15
+Solved
+6 4
+Solved
+6 12
+Solved
+6 13
+Solved
+6 15
+Solved
+7 0
+Solved
+6 12
+Solved
+7 12
+Solved
+7 15
+Solved
+8 12
+Solved
+8 -1
+Solved
+8 14
+Solved
+8 12
+Solved
+9 14
+Solved
+9 10
+Solved
+8 14
+Solved
+10 12
+Solved
+8 0
+Solved
+8 15
+Solved
+10 0
+Solved
+12 15
+Solved
+11 14
+Solved
+10 16
+Solved
+11 0
+Solved
+13 -1
+Solved
+14 0
+Solved
+Solved
+12 13
+Solved
+12 11
+Solved
+12 10
+Solved
+12 8
+Solved
+12 7
+Solved
+11 14
+Solved
+11 5
+Solved
+12 5
+Solved
+12 3
+Solved
+13 3
+Solved
+11 12
+Solved
+10 12
+Solved
+13 2
+Solved
+12 1
+Solved
+12 3
+Solved
+12 0
+Solved
+12 4
+Solved
+10 13
+Solved
+10 14
+Solved
+11 1
+Solved
+10 0
+Solved
+11 0
+Solved
+9 1
+Solved
+8 1
+Solved
+8 0
+Solved
+11 13
+Solved
+9 -1
+Solved
+11 15
+Solved
+13 5
+Solved
+7 1
+Solved
+7 1
+Solved
+6 2
+Solved
+5 2
+Solved
+4 3
+Solved
+3 3
+Solved
+5 4
+Solved
+6 5
+Solved
+2 3
+Solved
+1 3
+Solved
+7 6
+Solved
+6 7
+Solved
+0 3
+Solved
+4 5
+Solved
+5 6
+Solved
+4 6
+Solved
+3 7
+Solved
+3 9
+Solved
+4 9
+Solved
+4 10
+Solved
+4 11
+Solved
+2 9
+Solved
+4 12
+Solved
+4 12
+Solved
+0 3
+Solved
+0 4
+Solved
+1 9
+Solved
+0 5
+Solved
+0 10
+Solved
+0 10
+Solved
+0 11
+Solved
+1 9
+Solved
+0 12
+Solved
+2 11
+Solved
+0 4
+Solved
+0 2
+Solved
+0 1
+Solved
+0 -1
+Solved
+0 6
+Solved
+0 6
+Solved
+1 1
+Solved
+0 8
+Solved
+0 0
+Solved
+2 1
+Solved
+2 3
+Solved
+1 4
+Solved
+2 -1
+Solved
+2 6
+Solved
+3 4
+Solved
+2 6
+Solved
+3 1
+Solved
+3 0
+Solved
+2 6
+Solved
+3 6
+Solved
+3 8
+Solved
+3 0
+Solved
+4 0
+Solved
+4 1
+Solved
+5 5
+Solved
+5 0
+Solved
+4 0
+Solved
+5 3
+Solved
+7 -1
+Solved
+12 0
+Solved
+13 6
+Solved
+13 8
+Solved
+12 10
+Solved
+13 10
+Solved
+12 12
+Solved
+13 13
+Solved
+13 14
+Solved
+14 2
+Solved
+Solved
+12 12
+Solved
+11 13
+Solved
+11 11
+Solved
+11 9
+Solved
+11 8
+Solved
+10 8
+Solved
+9 6
+Solved
+12 14
+Solved
+8 6
+Solved
+12 14
+Solved
+12 13
+Solved
+8 5
+Solved
+13 13
+Solved
+10 5
+Solved
+9 3
+Solved
+11 8
+Solved
+9 3
+Solved
+8 6
+Solved
+8 8
+Solved
+7 9
+Solved
+8 10
+Solved
+7 11
+Solved
+7 8
+Solved
+8 13
+Solved
+8 14
+Solved
+14 11
+Solved
+6 8
+Solved
+6 8
+Solved
+5 8
+Solved
+6 9
+Solved
+10 4
+Solved
+11 3
+Solved
+11 10
+Solved
+11 12
+Solved
+6 10
+Solved
+6 11
+Solved
+8 15
+Solved
+5 12
+Solved
+6 12
+Solved
+4 8
+Solved
+3 9
+Solved
+10 5
+Solved
+10 5
+Solved
+3 10
+Solved
+10 7
+Solved
+7 16
+Solved
+3 12
+Solved
+3 13
+Solved
+3 13
+Solved
+6 16
+Solved
+5 15
+Solved
+9 3
+Solved
+4 13
+Solved
+6 13
+Solved
+4 11
+Solved
+6 9
+Solved
+6 11
+Solved
+8 7
+Solved
+11 8
+Solved
+9 3
+Solved
+8 9
+Solved
+8 10
+Solved
+8 11
+Solved
+8 12
+Solved
+8 12
+Solved
+8 15
+Solved
+8 16
+Solved
+10 9
+Solved
+9 10
+Solved
+10 11
+Solved
+6 13
+Solved
+10 13
+Solved
+10 14
+Solved
+13 13
+Solved
+10 13
+Solved
+11 14
+Solved
+12 16
+Solved
+14 15
+Solved
+Solved
+11 14
+Solved
+10 13
+Solved
+10 12
+Solved
+10 10
+Solved
+9 11
+Solved
+9 10
+Solved
+12 14
+Solved
+12 7
+Solved
+8 10
+Solved
+10 10
+Solved
+10 9
+Solved
+10 9
+Solved
+10 7
+Solved
+11 9
+Solved
+10 6
+Solved
+12 7
+Solved
+10 4
+Solved
+10 5
+Solved
+13 8
+Solved
+10 14
+Solved
+11 4
+Solved
+10 3
+Solved
+10 1
+Solved
+10 14
+Solved
+11 0
+Solved
+11 15
+Solved
+10 14
+Solved
+8 9
+Solved
+9 16
+Solved
+9 10
+Solved
+10 6
+Solved
+8 16
+Solved
+10 8
+Solved
+11 9
+Solved
+11 10
+Solved
+11 11
+Solved
+11 0
+Solved
+12 -1
+Solved
+12 1
+Solved
+12 5
+Solved
+12 6
+Solved
+11 8
+Solved
+12 11
+Solved
+11 15
+Solved
+11 13
+Solved
+12 0
+Solved
+13 -1
+Solved
+12 2
+Solved
+12 4
+Solved
+12 5
+Solved
+12 6
+Solved
+13 9
+Solved
+13 9
+Solved
+13 10
+Solved
+13 12
+Solved
+14 8
+Solved
+14 6
+Solved
+13 0
+Solved
+13 0
+Solved
+13 2
+Solved
+14 3
+Solved
+13 5
+Solved
+13 10
+Solved
+Solved
+11 13
+Solved
+11 12
+Solved
+11 9
+Solved
+11 9
+Solved
+11 8
+Solved
+10 7
+Solved
+11 14
+Solved
+11 14
+Solved
+10 7
+Solved
+9 6
+Solved
+11 5
+Solved
+11 5
+Solved
+8 8
+Solved
+11 4
+Solved
+11 2
+Solved
+11 1
+Solved
+7 8
+Solved
+11 1
+Solved
+6 9
+Solved
+6 10
+Solved
+5 10
+Solved
+5 12
+Solved
+4 11
+Solved
+12 14
+Solved
+3 12
+Solved
+13 13
+Solved
+4 14
+Solved
+6 8
+Solved
+11 5
+Solved
+3 11
+Solved
+4 14
+Solved
+3 15
+Solved
+12 5
+Solved
+14 13
+Solved
+11 3
+Solved
+6 8
+Solved
+6 13
+Solved
+11 7
+Solved
+14 12
+Solved
+13 10
+Solved
+13 6
+Solved
+11 9
+Solved
+13 8
+Solved
+5 12
+Solved
+5 14
+Solved
+5 15
+Solved
+5 14
+Solved
+6 15
+Solved
+7 14
+Solved
+6 12
+Solved
+9 9
+Solved
+8 9
+Solved
+7 11
+Solved
+7 13
+Solved
+8 13
+Solved
+8 14
+Solved
+7 16
+Solved
+9 12
+Solved
+8 11
+Solved
+8 12
+Solved
+8 15
+Solved
+9 15
+Solved
+10 10
+Solved
+9 12
+Solved
+9 15
+Solved
+12 7
+Solved
+12 10
+Solved
+12 8
+Solved
+12 12
+Solved
+11 15
+Solved
+12 15
+Solved
+13 14
+Solved
+14 14
+Solved
+12 16
+Solved

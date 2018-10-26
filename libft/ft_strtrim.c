@@ -1,16 +1,35 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   ft_strtrim.c                                       :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: agordiyc <agordiyc@student.42.fr>          +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2017/12/10 15:03:20 by agordiyc          #+#    #+#             */
+/*   Updated: 2017/12/10 17:46:06 by agordiyc         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include "libft.h"
 
-char	*ft_strtrim(char const *s)
+static int	ft_iswhitespace_trim(char c)
 {
-	unsigned int	start;
-	size_t			length;
-	char			*tmp;
+	if ((c == ' ') || (c == '\t') || (c == '\n'))
+		return (1);
+	return (0);
+}
+
+char		*ft_strtrim(char const *s)
+{
+	size_t	start;
+	size_t	length;
+	char	*tmp;
 
 	if (s == NULL)
 		return (NULL);
 	start = 0;
 	tmp = (char *)s;
-	while (ft_iswhitespace(*tmp))
+	while (ft_iswhitespace_trim(*tmp))
 	{
 		tmp++;
 		start++;
@@ -20,7 +39,7 @@ char	*ft_strtrim(char const *s)
 		return (ft_strdup(""));
 	tmp = (char *)s + length - 1;
 	length -= start;
-	while (ft_iswhitespace(*tmp))
+	while (ft_iswhitespace_trim(*tmp))
 	{
 		tmp--;
 		length--;

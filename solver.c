@@ -196,7 +196,8 @@ int		score_improves(t_filler *filler, int y, int x)
 	char **copy;
 	int score;
 
-	copy = copy_map(filler);
+	if ((copy = copy_map(filler)) == NULL)
+		return (1);
 	j = 0;
 	while (j < filler->shape->h)
 	{
@@ -267,7 +268,7 @@ void	place_shape_if_possible(t_filler *filler, int y, int x)
 	}
 }
 
-void	skip_turn()
+void	skip_turn(void)
 {
 	dprintf(1, "%d %d\n", 0, 0);
 }
@@ -291,8 +292,6 @@ void	find_solution(t_filler *filler)
 	y = y_start;
 	y_end = (filler->rect->y1 + filler->shape->h - 1 < filler->h) ? (filler->rect->y1) : (filler->h - filler->shape->h);
 	x_end = (filler->rect->x1 + filler->shape->w - 1 < filler->w) ? (filler->rect->x1) : (filler->w - filler->shape->w);
-	//printf("(%d, %d); (%d, %d); (%d %d)\n", y_start, x_start, y_end, x_end, filler->shape->h, filler->shape->w);
-	//place_shape_if_possible(filler, 4, 7);
 	while (y <= y_end)
 	{
 		x = x_start;
@@ -302,12 +301,10 @@ void	find_solution(t_filler *filler)
 		}
 		y++;
 	}
-	ft_log("Solved\n");
 	if (filler->shape->x == -1)
 		skip_turn();
 	else
 	{
-		ft_log("%d %d\n", (int) (filler->shape->y - filler->shape->y_off), (int) (filler->shape->x - filler->shape->x_off));
 		dprintf(1, "%d %d\n", (int) (filler->shape->y - filler->shape->y_off), (int) (filler->shape->x - filler->shape->x_off));
 	}
 }

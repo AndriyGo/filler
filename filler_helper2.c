@@ -3,6 +3,8 @@
 
 void	release_filler(t_filler **filler)
 {
+	if (*filler == NULL)
+		return;
 	while ((*filler)->h-- > 0)
 		free((*filler)->map[(*filler)->h]);
 	free((*filler)->map);
@@ -24,11 +26,13 @@ char **copy_map(t_filler *filler)
 	int y;
 	int x;
 
-	ret = ft_memalloc(filler->h * sizeof(char *));
+	if ((ret = ft_memalloc(filler->h * sizeof(char *))) == NULL)
+		return (NULL);
 	y = 0;
 	while (y < filler->h)
 	{
-		ret[y] = ft_memalloc(filler->w * sizeof(char));
+		if ((ret[y] = ft_memalloc(filler->w * sizeof(char))) == NULL)
+			return (NULL);
 		x = 0;
 		while (x < filler->w)
 		{
@@ -40,8 +44,10 @@ char **copy_map(t_filler *filler)
 	return (ret);
 }
 
-void	init_shape(t_filler *filler, int h, int w)
+int		init_shape(t_filler *filler, int h, int w)
 {
+	if ((h == 0) || (w == 0))
+		return (-1);
 	if (filler->shape->map != NULL)
 	{
 		while (filler->shape->h-- > 0)
@@ -55,21 +61,26 @@ void	init_shape(t_filler *filler, int h, int w)
 	filler->shape->x_off = w;
 	filler->shape->y_off = h;
 	filler->shape->score = 0;
-	filler->shape->map = ft_memalloc(h * sizeof(char *));
+	if ((filler->shape->map = ft_memalloc(h * sizeof(char *))) == NULL)
+		return (-1);
 	while (h-- > 0)
-		filler->shape->map[h] = ft_memalloc(w * sizeof(char));
+		if ((filler->shape->map[h] = ft_memalloc(w * sizeof(char))) == NULL)
+			return (-1);
+	return (0);
 }
 
-void	create_new_shape(t_filler *filler, int h, int w, int h_old)
+int		create_new_shape(t_filler *filler, int h, int w, int h_old)
 {
 	int x;
 	int y;
 	char **new;
 
-	new = ft_memalloc(h * sizeof(char *));
+	if ((new = ft_memalloc(h * sizeof(char *))) == NULL)
+		return (-1);
 	y = 0;
 	while (y < h)
-		new[y++] = ft_memalloc(w * sizeof(char));
+		if ((new[y++] = ft_memalloc(w * sizeof(char))) == NULL)
+			return (-1);
 	filler->shape->w = w;
 	filler->shape->h = h;
 	y = 0;
@@ -77,10 +88,7 @@ void	create_new_shape(t_filler *filler, int h, int w, int h_old)
 	{
 		x = 0;
 		while (x < w)
-		{
-			new[y][x] = filler->shape->map[y + filler->shape->y_off][x + filler->shape->x_off];
-			x++;
-		}
+			new[y][x++] = filler->shape->map[y + filler->shape->y_off][x + filler->shape->x_off];
 		y++;
 	}
 	y = 0;
@@ -88,9 +96,10 @@ void	create_new_shape(t_filler *filler, int h, int w, int h_old)
 		free(filler->shape->map[y++]);
 	free(filler->shape->map);
 	filler->shape->map = new;
+	return (0);
 }
 
-void	optimise_shape(t_filler *filler, int h, int w)
+int		optimise_shape(t_filler *filler, int h, int w)
 {
 	int x;
 	int h2;
@@ -121,7 +130,7 @@ void	optimise_shape(t_filler *filler, int h, int w)
 	find_solution(filler);
 }
 
-void	fill_shape_line(t_filler *filler, int hi, char *line)
+int		fill_shape_line(t_filler *filler, int hi, char *line)
 {
 	int		w;
 	int		i;
@@ -132,10 +141,15 @@ void	fill_shape_line(t_filler *filler, int hi, char *line)
 	{
 		if (line[i] == '.')
 			filler->shape->map[hi][i] = 0;
-		else 
+		else if (line[i] == '*')
 			filler->shape->map[hi][i] = 1;
+		else
+			return (-1);
 		i++;
 	}
+	if (i != w)
+		return (-1);
 	if (hi == filler->shape->h - 1)
-		optimise_shape(filler, filler->shape->h, filler->shape->w);
+		return (optimise_shape(filler, filler->shape->h, filler->shape->w));
+	return (0);
 }
