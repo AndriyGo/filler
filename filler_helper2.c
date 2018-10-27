@@ -6,8 +6,18 @@ void	release_filler(t_filler **filler)
 	if (*filler == NULL)
 		return;
 	while ((*filler)->h-- > 0)
+	{
 		free((*filler)->map[(*filler)->h]);
+		free((*filler)->row_sc[(*filler)->h]);
+		free((*filler)->col_sc[(*filler)->h]);
+		free((*filler)->sig_r[(*filler)->h]);
+		free((*filler)->sig_c[(*filler)->h]);
+	}
 	free((*filler)->map);
+	free((*filler)->row_sc);
+	free((*filler)->col_sc);
+	free((*filler)->sig_c);
+	free((*filler)->sig_r);
 	if ((*filler)->shape != NULL)
 	{
 		while ((*filler)->shape->h-- > 0)
@@ -48,12 +58,6 @@ int		init_shape(t_filler *filler, int h, int w)
 {
 	if ((h == 0) || (w == 0))
 		return (-1);
-	if (filler->shape->map != NULL)
-	{
-		while (filler->shape->h-- > 0)
-			free(filler->shape->map[filler->shape->h]);
-		free(filler->shape->map);
-	}
 	filler->shape->h = h;
 	filler->shape->w = w;
 	filler->shape->x = -1;

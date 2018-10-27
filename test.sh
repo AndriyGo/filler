@@ -7,7 +7,7 @@ for i in "${map[@]}"; do
     	seed=0;
     	echo Player $p. Map $i.
     	while [ $seed -lt 1000 ]; do
-    		if [ "$p" = 1 ]; then
+    		if [ "$p" = 2 ]; then
     			./res/filler_vm -p1 ./agordiyc.filler -p2 ./res/players/carli.filler -f ./res/maps/map0$i -q -s $seed >/dev/null
     		else
     			./res/filler_vm -p2 ./agordiyc.filler -p1 ./res/players/carli.filler -f ./res/maps/map0$i -q -s $seed >/dev/null

@@ -45,6 +45,15 @@ typedef struct	s_filler
 	char		**map;
 	int			w;
 	int			h;
+	char		op_stopped;
+	int			en_count;
+	int			my_count;
+	int			a_x;
+	int			a_y;
+	int			**row_sc;
+	int			**col_sc;
+	char		**sig_r;
+	char		**sig_c;
 	t_rect		*rect;
 	t_shape		*shape;
 }				t_filler;

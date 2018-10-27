@@ -4,7 +4,8 @@ NAME	=	agordiyc.filler
 SRCS	= 	main.c \
 			filler_helper.c \
 			filler_helper2.c \
-			solver.c
+			solver.c \
+			solver2.c
 
 OBJS	=	$(SRCS:.c=.o)
 

@@ -8,8 +8,19 @@
 
 #import "libft/libft.h"
 #import "filler.h"
+#include <stdarg.h>
 
-int		read_map(t_filler **filler, char me, char *line)
+void ft_log(char *s, ...)
+{
+	va_list	args;
+	FILE *f = fopen("log.txt", "a+");
+	va_start(args, s);
+	vfprintf(f, s, args);
+	va_end(args);
+	fclose(f);
+}
+
+int		read_map(t_filler **filler, char me, char *line, int *en_c)
 {
 	char	*line2;
 	int		h;
@@ -36,6 +47,11 @@ int		read_map(t_filler **filler, char me, char *line)
 	if (line2 != NULL)
 		ft_strdel(&line2);
 	calc_map(*filler);
+	if ((*filler)->en_count > *en_c)
+		*en_c = (*filler)->en_count;
+	else
+		(*filler)->op_stopped = 1;
+	ft_log("%d %d\n", (*filler)->my_count, (*filler)->en_count);
 	return (0);
 }
 
@@ -72,10 +88,12 @@ int 	main(int argc, const char * argv[])
 	char		*line;
 	int         me;
 	int			i;
+	int			en_c;
 	t_filler	*filler;
 
 	me = 0;
 	i = 0;
+	en_c = 0;
 	while (get_next_line(0, &line) > 0)
 	{
 		if ((i != -2) && (line[0] == '$'))
@@ -87,7 +105,7 @@ int 	main(int argc, const char * argv[])
 				i = -2;
 			i--;
 		}
-		else if ((i != -2) && (i % 2 == 0) && (read_map(&filler, me, line) == -1))
+		else if ((i != -2) && (i % 2 == 0) && (read_map(&filler, me, line, &en_c) == -1))
 			i = -2;
 		else if ((i != -2) && (i % 2 == 1) && (read_piece(&filler, line) == -1))
 			i = -2;
